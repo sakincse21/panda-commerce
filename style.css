@@ -1,0 +1,61 @@
+body{
+    margin: 0 0 0 0;
+    padding: 0 0;
+}
+.my-body{
+    height: 1100px;
+}
+.navbar{
+    margin: 30px 0;
+}
+.navbar img{
+}
+.first-part{
+    background-color: whitesmoke;
+}
+.carousal-my{
+    background-color: rgba(255, 192, 203, 0.664);
+    border-radius: 20px;
+}
+.carousel-img{
+    width: 80%;
+}
+.carousel-inner{
+    align-items: center;
+}
+.buy-button{
+    background-color: rgb(235, 40, 72);
+    color: white;
+    border-radius: 12px;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.highlight-text{
+    color: salmon;
+}
+.my-category{
+    width: 100%;
+    color: white;
+    float: left;
+    overflow: auto;
+}
+.category-box{
+    padding: 20px;
+    border-radius: 16px;
+}
+.category-box img{
+    width: 120px;
+}
+.watch-box{
+    background-color: orange;
+}
+.bag-box{
+    background-color: pink;
+}
+.shoes-box{
+    background-color: blue;
+}
+.shoe-bag-section{
+    background-color: rgb(233, 231, 231);
+    margin-top: 20px;
+}
